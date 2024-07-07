@@ -1,0 +1,25 @@
+﻿<Window x:Class="JulyPractice.CreateAccountWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JulyPractice"
+        mc:Ignorable="d"
+        Title="Create Account" Height="320" Width="400">
+
+    <StackPanel Width="400" VerticalAlignment="Center">
+
+        <Label Content ="Введите имя пользователя:" HorizontalAlignment="Center"/>
+        <TextBox Text="{Binding UsernameTextBox, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="20" Width="200" VerticalContentAlignment="Center"/>
+        <Label Content="Введите пароль:" HorizontalAlignment="Center"/>
+        <PasswordBox Height="20" Width="200" VerticalContentAlignment="Center"
+                     local:PasswordBoxBinding.BindPassword="{Binding PasswordTextBox, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Button Command="{Binding CreateAccountButton}" Content="Создать аккаунт" Height ="20" Width="150" Margin="10"/>
+
+        <TextBlock Text="{Binding MessageBlock}" HorizontalAlignment="Center" TextAlignment="Center"
+               Width="350" Height="25" FontSize="11"
+               Foreground="#FFFF0F0F"/>
+    </StackPanel>
+
+</Window>
