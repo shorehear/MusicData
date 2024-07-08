@@ -1,249 +1,31 @@
 Musicians:
-Michael Jackson, USA, 1958-08-29
-Queen, UK, 1970-07-01
-Bob Marley, Jamaica, 1945-02-06
-Beyoncé, USA, 1981-09-04
-Adele, UK, 1988-05-05
-Justin Bieber, Canada, 1994-03-01
-ABBA, Sweden, 1972-06-06
-Shakira, Colombia, 1977-02-02
-Mariah Carey, USA, 1969-03-27
-U2, Ireland, 1976-09-25
-Nirvana, USA, 1987-01-01
-David Bowie, UK, 1947-01-08
-Prince, USA, 1958-06-07
-Pink Floyd, UK, 1965-03-01
-Whitney Houston, USA, 1963-08-09
-The Rolling Stones, UK, 1962-07-12
-Jimi Hendrix, USA, 1942-11-27
-Bruno Mars, USA, 1985-10-08
-Rihanna, Barbados, 1988-02-20
-Coldplay, UK, 1996-01-16
-Ed Sheeran, UK, 1991-02-17
-Ariana Grande, USA, 1993-06-26
-Elton John, UK, 1947-03-25
-Eminem, USA, 1972-10-17
-Guns N' Roses, USA, 1985-03-01
-Paul McCartney, UK, 1942-06-18
-Justin Timberlake, USA, 1981-01-31
-Selena Gomez, USA, 1992-07-22
-Bob Dylan, USA, 1941-05-24
-Stevie Wonder, USA, 1950-05-13
-Jay-Z, USA, 1969-12-04
-Britney Spears, USA, 1981-12-02
-Taylor Swift, USA, 1989-12-13
-Lady Gaga, USA, 1986-03-28
-The Weeknd, Canada, 1990-02-16
-Kendrick Lamar, USA, 1987-06-17
-Sia, Australia, 1975-12-18
-Aretha Franklin, USA, 1942-03-25
-Beastie Boys, USA, 1981-07-25
-John Lennon, UK, 1940-10-09
-Billy Joel, USA, 1949-05-09
-Miley Cyrus, USA, 1992-11-23
-Fleetwood Mac, UK, 1967-07-01
-Katy Perry, USA, 1984-10-25
-Chuck Berry, USA, 1926-10-18
-Pink, USA, 1979-09-08
-George Michael, UK, 1963-06-25
-The Beach Boys, USA, 1961-12-31
-Donna Summer, USA, 1948-12-31
-Carlos Santana, USA, 1947-07-20
-Metallica, USA, 1981-10-28
-Enya, Ireland, 1961-05-17
-Black Eyed Peas, USA, 1995-07-17
-Carrie Underwood, USA, 1983-03-10
-Jon Bon Jovi, USA, 1962-03-02
-Rod Stewart, UK, 1945-01-10
-Kanye West, USA, 1977-06-08
-Maroon 5, USA, 1994-01-01
-Demi Lovato, USA, 1992-08-20
-Jessie J, UK, 1988-03-27
-Duran Duran, UK, 1978-01-01
-Janet Jackson, USA, 1966-05-16
-Tina Turner, USA, 1939-11-26
-Trisha Yearwood, USA, 1964-09-19
-Calvin Harris, UK, 1984-01-17
-Alanis Morissette, Canada, 1974-06-01
-Radiohead, UK, 1985-08-20
-Blake Shelton, USA, 1976-06-18
-Lionel Richie, USA, 1949-06-20
-Twenty One Pilots, USA, 2009-12-29
-Phil Collins, UK, 1951-01-30
-The Supremes, USA, 1959-01-21
-Red Hot Chili Peppers, USA, 1983-01-01
-Gloria Estefan, USA, 1957-09-01
-Dolly Parton, USA, 1946-01-19
-The Police, UK, 1977-01-01
-Paul Simon, USA, 1941-10-13
-Sam Smith, UK, 1992-05-19
-Alicia Keys, USA, 1981-01-25
-Usher, USA, 1978-10-14
-Neil Diamond, USA, 1941-01-24
-Destiny's Child, USA, 1997-01-01
-Tim McGraw, USA, 1967-05-01
-The Killers, USA, 2001-01-01
-Gloria Gaynor, USA, 1949-09-07
-John Mayer, USA, 1977-10-16
-The Spice Girls, UK, 1994-01-01
-Keith Urban, New Zealand, 1967-10-26
-Green Day, USA, 1986-01-01
-The Carpenters, USA, 1969-01-01
-Camila Cabello, Cuba, 1997-03-03
-The Four Seasons, USA, 1960-01-01
-Bon Jovi, USA, 1983-01-01
-Florence + The Machine, UK, 2007-01-01
-Shania Twain, Canada, 1965-08-28
-The Black Eyed Peas, USA, 1995-07-17
-Ray Charles, USA, 1930-09-23
-Alice Cooper, USA, 1948-02-04
-ZZ Top, USA, 1969-01-01
-Halsey, USA, 1994-09-29
-Tom Jones, UK, 1940-06-07
-The Chainsmokers, USA, 2012-01-01
-Dua Lipa, UK, 1995-08-22
-Pat Benatar, USA, 1953-01-10
-Def Leppard, UK, 1977-11-01
-Rascal Flatts, USA, 1999-01-01
-Abba, Sweden, 1972-06-06
-Neil Young, Canada, 1945-11-12
-The Cure, UK, 1976-12-01
-Avril Lavigne, Canada, 1984-09-27
-Led Zeppelin, UK, 1968-09-01
-Cardi B, USA, 1992-10-11
-Linkin Park, USA, 1996-01-01
-Kenny Rogers, USA, 1938-08-21
-Van Halen, USA, 1972-01-01
-Lenny Kravitz, USA, 1964-05-26
-Earth, Wind & Fire, USA, 1969-01-01
-Salt-N-Pepa, USA, 1985-01-01
-Tony Bennett, USA, 1926-08-03
-Spice Girls, UK, 1994-01-01
-REO Speedwagon, USA, 1967-01-01
-21 Savage, UK, 1992-10-22
-The Eagles, USA, 1971-01-01
-TLC, USA, 1991-01-01
-Christina Aguilera, USA, 1980-12-18
-Carpenters, USA, 1969-01-01
-Travis Scott, USA, 1992-04-30
-Drake, Canada, 1986-10-24
-Stevie Nicks, USA, 1948-05-26
-The Who, UK, 1964-03-01
-PSY, South Korea, 1977-12-31
-Steven Tyler, USA, 1948-03-26
-Bell Biv DeVoe, USA, 1989-01-01
-Journey, USA, 1973-01-01
-Lizzo, USA, 1988-04-27
-Jennifer Lopez, USA, 1969-07-24
-Snoop Dogg, USA, 1971-10-20
-The Temptations, USA, 1960-01-01
-Hozier, Ireland, 1990-03-17
-P!nk, USA, 1979-09-08
-Cher, USA, 1946-05-20
-Pearl Jam, USA, 1990-01-01
-Nickelback, Canada, 1995-01-01
-Rick Astley, UK, 1966-02-06
-Tom Petty, USA, 1950-10-20
-Bonnie Raitt, USA, 1949-11-08
-Avicii, Sweden, 1989-09-08
-Niall Horan, Ireland, 1993-09-13
-Lynyrd Skynyrd, USA, 1964-01-01
-Lil Wayne, USA, 1982-09-27
-Megadeth, USA, 1983-01-01
-Meat Loaf, USA, 1947-09-27
-AC/DC, Australia, 1973-11-01
-Lana Del Rey, USA, 1985-06-21
-Lorde, New Zealand, 1996-11-07
-Eric Clapton, UK, 1945-03-30
-Chris Stapleton, USA, 1978-04-15
-Carly Rae Jepsen, Canada, 1985-11-21
-Greta Van Fleet, USA, 2012-01-01
-Enrique Iglesias, Spain, 1975-05-08
-Madonna, USA, 1958-08-16
-BTS, South Korea, 2013-06-13
-Celine Dion, Canada, 1980-01-01
-Shakira, Colombia, 1990-01-01
-Andrea Bocelli, Italy, 1992-01-01
-Enrique Iglesias, Spain, 1995-01-01
-Maluma, Colombia, 2010-01-01
-ABBA, Sweden, 1972-06-05
-Tarkan, Turkey, 1992-01-01
-Fela Kuti, Nigeria, 1963-01-01
-Armin van Buuren, Netherlands, 1995-01-01
-Lara Fabian, Belgium, 1986-01-01
-Stromae, Belgium, 2009-01-01
-Ricky Martin, Puerto Rico, 1984-01-01
-Juanes, Colombia, 2000-01-01
-Yanni, Greece, 1977-01-01
-A.R. Rahman, India, 1992-01-01
-Olamide, Nigeria, 2010-01-01
-Zaz, France, 2001-01-01
-Gipsy Kings, France, 1978-01-01
-Elton John, United Kingdom, 1967-04-01
-Sigur Rós, Iceland, 1994-01-01
-Alessia Cara, Canada, 2014-01-01
-Lorde, New Zealand, 2012-01-01
-Amr Diab, Egypt, 1983-01-01
-Sezen Aksu, Turkey, 1973-01-01
-Mylène Farmer, France, 1984-01-01
-Sade, United Kingdom, 1982-01-01
-Sabrina Carpenter, USA, 2011-01-01
-Yuna, Malaysia, 2008-01-01
-Björk, Iceland, 1977-01-01
-Nana Mouskouri, Greece, 1943-10-01
-Indila, France, 2010-01-01
-Stromae, Belgium, 2000-01-01
-Mariza, Portugal, 1997-01-01
-Eros Ramazzotti, Italy, 1981-01-01
-Faye Wong, China, 1987-01-01
-Hiba Tawaji, Lebanon, 1987-01-01
-Ravi Shankar, India, 1937-01-01
-Myriam Fares, Lebanon, 2000-01-01
-Fayrouz, Lebanon, 1957-01-01
-Hossam Habib, Egypt, 2002-01-01
-Ofra Haza, Israel, 1973-01-01
-Alizée, France, 1999-01-01
-Yelle, France, 2005-01-01
-Elissa, Lebanon, 1992-01-01
-Ilham Al Madfai, Iraq, 1977-01-01
-D'banj, Nigeria, 2004-01-01
-Yolanda Be Cool, Australia, 2009-01-01
-Natalie Imbruglia, Australia, 1993-01-01
-Kimbra, New Zealand, 2000-01-01
-Julia Zahra, Netherlands, 2013-01-01
-Sandra Kim, Belgium, 1985-01-01
-Anggun, Indonesia, 1993-01-01
-Adrian Martadinata, Indonesia, 2005-01-01
-Ella Eyre, United Kingdom, 2012-01-01
-Zazie, France, 1992-01-01
-Hikaru Utada, Japan, 1996-01-01
-Kyary Pamyu Pamyu, Japan, 2011-01-01
-Mando Diao, Sweden, 2002-01-01
-Agnes Obel, Denmark, 2009-01-01
-Zara Larsson, Sweden, 2007-01-01
-Amar, Franœ, 1995-01-01
-Polo & Pan, France, 2012-01-01
-Overmono, Germany, 2012-01-01
-DAF, Germany, 1978-01-01
-Luftwaffe, Germany, 2004-01-01
-And One, Germany, 1989-01-01
-Sandra, Germany, 1976-01-01
-Bosse, Germany, 2005-01-01
-ASA, France, 2004-01-01
-Caravan Palace, France, 2008-01-01
-Klangkarussell, Austria, 2011-01-01
-Parov Stelar, Austria, 2000-01-01
-Vitalic, France, 1996-01-01
-Zombie Zombie, France, 2006-01-01
-Röyksopp, Norway, 1998-01-01
-A-ha, Norway, 1982-01-01
-Zoot Woman, United Kingdom, 2001-01-01
-Pet Shop Boys, United Kingdom, 1981-01-01
-Basement Jaxx, United Kingdom, 1994-01-01
-Fatboy Slim, United Kingdom, 1996-01-01
-Kraak & Smaak, Netherlands, 2003-01-01
-Princess Chelsea, New Zealand, 2010-01-01
-K.Flay, United States, 2006-01-01
-Bomba Estéreo, Colombia, 2005-01-01
-Black Coffee, South Africa, 2003-01-01
-Les Australian, France, 2006-01-01
+John Smith, USA
+Emily Johnson, UK
+Michael Brown, France
+Maria Garcia, Japan
+David Lee, Canada
+Sophie Martin, Germany
+Lucas Hernandez, Australia
+Ana Silva, Brazil
+Rahul Kumar, India
+Ji-hyun Park, South Korea
+Emma Wilson, USA
+Daniel White, UK
+Isabella Lopez, France
+Liam Martinez, Japan
+Olivia Thompson, Canada
+Ethan Harris, Germany
+Amelia Davis, Australia
+Jacob Rodriguez, Brazil
+Mia Wilson, India
+Alexander Taylor, South Korea
+Lily Moore, USA
+Oscar Clark, UK
+Sophia Green, France
+Logan Robinson, Japan
+Ava Hall, Canada
+Noah King, Germany
+Grace Scott, Australia
+Benjamin Walker, Brazil
+Chloe Hill, India
+James Baker, South Korea

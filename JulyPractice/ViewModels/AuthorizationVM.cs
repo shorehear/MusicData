@@ -59,10 +59,12 @@ namespace JulyPractice
 
             using (var context = new CurrentDbContext())
             {
+                context.Database.EnsureCreated();
                 var user = context.Users.SingleOrDefault(u => u.Username == LoginTextBox);
                 if (user != null && PasswordHasher.VerifyPassword(PasswordTextBox, user.PasswordHash))
                 {
-                    MessageBox.Show("Логин и пароль введены верно, далее.");
+                    MainWindow mainWindow = new MainWindow();
+                    mainWindow.Show();
                 }
                 else
                 {

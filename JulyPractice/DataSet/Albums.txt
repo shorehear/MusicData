@@ -1,257 +1,31 @@
 Albums:
-Thriller, Michael Jackson, 1982
-A Night at the Opera, Queen, 1975
-Exodus, Bob Marley, 1977
-Lemonade, Beyoncé, 2016
-21, Adele, 2011
-Purpose, Justin Bieber, 2015
-Arrival, ABBA, 1976
-Laundry Service, Shakira, 2001
-Music Box, Mariah Carey, 1993
-The Joshua Tree, U2, 1987
-Nevermind, Nirvana, 1991
-The Rise and Fall of Ziggy Stardust and the Spiders from Mars, David Bowie, 1972
-Purple Rain, Prince, 1984
-The Dark Side of the Moon, Pink Floyd, 1973
-Bad, Michael Jackson, 1987
-News of the World, Queen, 1977
-Legend, Bob Marley, 1984
-Dangerously in Love, Beyoncé, 2003
-25, Adele, 2015
-Believe, Justin Bieber, 2012
-Voulez-Vous, ABBA, 1979
-Fijación Oral, Vol. 1, Shakira, 2005
-Daydream, Mariah Carey, 1995
-Achtung Baby, U2, 1991
-In Utero, Nirvana, 1993
-Hunky Dory, David Bowie, 1971
-1999, Prince, 1982
-Wish You Were Here, Pink Floyd, 1975
-Whitney Houston, Whitney Houston, 1985
-Sticky Fingers, The Rolling Stones, 1971
-Are You Experienced, Jimi Hendrix, 1967
-Doo-Wops & Hooligans, Bruno Mars, 2010
-Anti, Rihanna, 2016
-A Rush of Blood to the Head, Coldplay, 2002
-÷ (Divide), Ed Sheeran, 2017
-Sweetener, Ariana Grande, 2018
-Goodbye Yellow Brick Road, Elton John, 1973
-The Marshall Mathers LP, Eminem, 2000
-Appetite for Destruction, Guns N' Roses, 1987
-Ram, Paul McCartney, 1971
-FutureSex/LoveSounds, Justin Timberlake, 2006
-Revival, Selena Gomez, 2015
-Highway 61 Revisited, Bob Dylan, 1965
-Songs in the Key of Life, Stevie Wonder, 1976
-The Blueprint, Jay-Z, 2001
-...Baby One More Time, Britney Spears, 1999
-1989, Taylor Swift, 2014
-My Love Is Your Love, Whitney Houston, 1998
-Exile on Main St., The Rolling Stones, 1972
-Electric Ladyland, Jimi Hendrix, 1968
-Unorthodox Jukebox, Bruno Mars, 2012
-Good Girl Gone Bad, Rihanna, 2007
-Parachutes, Coldplay, 2000
-x (Multiply), Ed Sheeran, 2014
-Thank U, Next, Ariana Grande, 2019
-Rocket Man: Number Ones, Elton John, 2007
-The Eminem Show, Eminem, 2002
-Use Your Illusion I, Guns N' Roses, 1991
-Band on the Run, Paul McCartney, 1973
-Justified, Justin Timberlake, 2002
-Stars Dance, Selena Gomez, 2013
-Blonde on Blonde, Bob Dylan, 1966
-Innervisions, Stevie Wonder, 1973
-Reasonable Doubt, Jay-Z, 1996
-Oops!... I Did It Again, Britney Spears, 2000
-Red, Taylor Swift, 2012
-The Fame, Lady Gaga, 2008
-Starboy, The Weeknd, 2016
-To Pimp a Butterfly, Kendrick Lamar, 2015
-1000 Forms of Fear, Sia, 2014
-I Never Loved a Man the Way I Love You, Aretha Franklin, 1967
-Licensed to Ill, Beastie Boys, 1986
-Imagine, John Lennon, 1971
-The Stranger, Billy Joel, 1977
-Bangerz, Miley Cyrus, 2013
-Rumours, Fleetwood Mac, 1977
-Teenage Dream, Katy Perry, 2010
-Chuck Berry Is on Top, Chuck Berry, 1959
-Missundaztood, Pink, 2001
-Faith, George Michael, 1987
-Pet Sounds, The Beach Boys, 1966
-Bad Girls, Donna Summer, 1979
-Abraxas, Santana, 1970
-Master of Puppets, Metallica, 1986
-Born This Way, Lady Gaga, 2011
-Beauty Behind the Madness, The Weeknd, 2015
-DAMN., Kendrick Lamar, 2017
-This Is Acting, Sia, 2016
-Lady Soul, Aretha Franklin, 1968
-Paul's Boutique, Beastie Boys, 1989
-Plastic Ono Band, John Lennon, 1970
-Piano Man, Billy Joel, 1973
-Can't Be Tamed, Miley Cyrus, 2010
-Tusk, Fleetwood Mac, 1979
-Prism, Katy Perry, 2013
-The Great Twenty-Eight, Chuck Berry, 1982
-Funhouse, Pink, 2008
-Listen Without Prejudice Vol. 1, George Michael, 1990
-Surf's Up, The Beach Boys, 1971
-Santana, Santana, 1969
-...And Justice for All, Metallica, 1988
-Watermark, Enya, 1988
-Elephunk, Black Eyed Peas, 2003
-Some Hearts, Carrie Underwood, 2005
-Slippery When Wet, Bon Jovi, 1986
-Every Picture Tells a Story, Rod Stewart, 1971
-The College Dropout, Kanye West, 2004
-Songs About Jane, Maroon 5, 2002
-Unbroken, Demi Lovato, 2011
-Who You Are, Jessie J, 2011
-Duran Duran, Duran Duran, 1981
-Control, Janet Jackson, 1986
-Private Dancer, Tina Turner, 1984
-PrizeFighter: Hit After Hit, Trisha Yearwood, 2014
-18 Months, Calvin Harris, 2012
-Jagged Little Pill, Alanis Morissette, 1995
-OK Computer, Radiohead, 1997
-Bringing Back the Sunshine, Blake Shelton, 2014
-Can't Slow Down, Lionel Richie, 1983
-Blurryface, Twenty One Pilots, 2015
-A Day Without Rain, Enya, 2000
-The E.N.D., Black Eyed Peas, 2009
-Carnival Ride, Carrie Underwood, 2007
-New Jersey, Bon Jovi, 1988
-Rod Stewart, Rod Stewart, 1969
-My Beautiful Dark Twisted Fantasy, Kanye West, 2010
-Overexposed, Maroon 5, 2012
-Demi, Demi Lovato, 2013
-Alive, Jessie J, 2013
-Rio, Duran Duran, 1982
-Rhythm Nation 1814, Janet Jackson, 1989
-Heaven, Heartache and the Power of Love, Trisha Yearwood, 2007
-Motion, Calvin Harris, 2014
-Supposed Former Infatuation Junkie, Alanis Morissette, 1998
-Kid A, Radiohead, 2000
-Based on a True Story..., Blake Shelton, 2013
-Lionel Richie, Lionel Richie, 1982
-Shepherd Moons, Enya, 1991
-Monkey Business, Black Eyed Peas, 2005
-Blown Away, Carrie Underwood, 2012
-These Days, Bon Jovi, 1995
-Gasoline Alley, Rod Stewart, 1970
-Yeezus, Kanye West, 2013
-V, Maroon 5, 2014
-Confident, Demi Lovato, 2015
-Sweet Talker, Jessie J, 2014
-Seven and the Ragged Tiger, Duran Duran, 1983
-Janet., Janet Jackson, 1993
-Wildest Dreams, Tina Turner, 1996
-Funk Wav Bounces Vol. 1, Calvin Harris, 2017
-Under Rug Swept, Alanis Morissette, 2002
-In Rainbows, Radiohead, 2007
-If I'm Honest, Blake Shelton, 2016
-Dancing on the Ceiling, Lionel Richie, 1986
-Trench, Twenty One Pilots, 2018
-No Jacket Required, Phil Collins, 1985
-Where Did Our Love Go, The Supremes, 1964
-Blood Sugar Sex Magik, Red Hot Chili Peppers, 1991
-Mi Tierra, Gloria Estefan, 1993
-Coat of Many Colors, Dolly Parton, 1971
-Outlandos d'Amour, The Police, 1978
-Graceland, Paul Simon, 1986
-In the Lonely Hour, Sam Smith, 2014
-Songs in A Minor, Alicia Keys, 2001
-Confessions, Usher, 2004
-The Jazz Singer, Neil Diamond, 1980
-The Writing's on the Wall, Destiny's Child, 1999
-Not a Moment Too Soon, Tim McGraw, 1994
-Hot Fuss, The Killers, 2004
-Love Tracks, Gloria Gaynor, 1978
-Continuum, John Mayer, 2006
-Spice, Spice Girls, 1996
-Golden Road, Keith Urban, 2002
-Dookie, Green Day, 1994
-Close to You, The Carpenters, 1970
-Camila, Camila Cabello, 2018
-Sherry & 11 Others, The Four Seasons, 1962
-Lungs, Florence + The Machine, 2009
-Come On Over, Shania Twain, 1997
-Elephunk, The Black Eyed Peas, 2003
-Modern Sounds in Country and Western Music, Ray Charles, 1962
-Love It to Death, Alice Cooper, 1971
-Eliminator, ZZ Top, 1983
-Badlands, Halsey, 2015
-It's Not Unusual, Tom Jones, 1965
-Memories...Do Not Open, The Chainsmokers, 2017
-Future Nostalgia, Dua Lipa, 2020
-Crimes of Passion, Pat Benatar, 1980
-Hysteria, Def Leppard, 1987
-Rascal Flatts, Rascal Flatts, 2000
-Harvest, Neil Young, 1972
-Disintegration, The Cure, 1989
-Let Go, Avril Lavigne, 2002
-Led Zeppelin IV, Led Zeppelin, 1971
-Invasion of Privacy, Cardi B, 2018
-Hybrid Theory, Linkin Park, 2000
-The Gambler, Kenny Rogers, 1978
-Van Halen, Van Halen, 1978
-Let Love Rule, Lenny Kravitz, 1989
-That's the Way of the World, Earth, Wind & Fire, 1975
-Hot, Cool & Vicious, Salt-N-Pepa, 1986
-I Left My Heart in San Francisco, Tony Bennett, 1962
-Hi Infidelity, REO Speedwagon, 1980
-Issa Album, 21 Savage, 2017
-Hotel California, Eagles, 1976
-CrazySexyCool, TLC, 1994
-Christina Aguilera, Christina Aguilera, 1999
-Close to You, Carpenters, 1970
-Astroworld, Travis Scott, 2018
-Take Care, Drake, 2011
-Bella Donna, Stevie Nicks, 1981
-My Generation, The Who, 1965
-PSY 6 (Six Rules), Part 1, PSY, 2012
-We're All Somebody from Somewhere, Steven Tyler, 2016
-Poison, Bell Biv DeVoe, 1990
-Escape, Journey, 1981
-Cuz I Love You, Lizzo, 2019
-On the 6, Jennifer Lopez, 1999
-Doggystyle, Snoop Dogg, 1993
-Meet the Temptations, The Temptations, 1964
-Hozier, Hozier, 2014
-Missundaztood, P!nk, 2001
-Believe, Cher, 1998
-Ten, Pearl Jam, 1991
-Silver Side Up, Nickelback, 2001
-Whenever You Need Somebody, Rick Astley, 1987
-Wildflowers, Tom Petty, 1994
-Nick of Time, Bonnie Raitt, 1989
-True, Avicii, 2013
-Flicker, Niall Horan, 2017
-(Pronounced 'Lĕh-'nérd 'Skin-'nérd), Lynyrd Skynyrd, 1973
-Tha Carter III, Lil Wayne, 2008
-Countdown to Extinction, Megadeth, 1992
-Bat Out of Hell, Meat Loaf, 1977
-Back in Black, AC/DC, 1980
-Born to Die, Lana Del Rey, 2012
-Pure Heroine, Lorde, 2013
-Slowhand, Eric Clapton, 1977
-Traveller, Chris Stapleton, 2015
-Kiss, Carly Rae Jepsen, 2012
-Anthem of the Peaceful Army, Greta Van Fleet, 2018
-Enrique Iglesias, Enrique Iglesias, 1995
-Like a Virgin, Madonna, 1984
-Map of the Soul: 7, BTS, 2020
-Falling into You, Celine Dion, 1996
-Romanza, Andrea Bocelli, 1996
-Enrique, Enrique Iglesias, 1999
-Pretty Boy, Dirty Boy, Maluma, 2015
-Yine Sensiz, Tarkan, 1992
-Expensive Shit, Fela Kuti, 1975
-Intense, Armin van Buuren, 2013
-Lara Fabian, Lara Fabian, 1991
-Cheese, Stromae, 2010
-Ricky Martin, Ricky Martin, 1999
-Fíjate Bien, Juanes, 2000
-Optimystique, Yanni, 1980
+Summer Hits, John Smith, 2023
+Moonlight Sonata, Emily Johnson, 2022
+Rhythm of Paris, Michael Brown, 2024
+Tokyo Nights, Maria Garcia, 2023
+Maple Melodies, David Lee, 2022
+Berlin Beats, Sophie Martin, 2023
+Outback Rhythms, Lucas Hernandez, 2024
+Carnaval Brasileiro, Ana Silva, 2022
+Bollywood Beats, Rahul Kumar, 2023
+Seoul Symphony, Ji-hyun Park, 2022
+Golden Sunset, Emma Wilson, 2023
+London Calling, Daniel White, 2024
+Parisian Romance, Isabella Lopez, 2022
+Kyoto Serenade, Liam Martinez, 2023
+Canadian Voyage, Olivia Thompson, 2024
+Berlin Electronica, Ethan Harris, 2022
+Sydney Soundscape, Amelia Davis, 2023
+Rio de Janeiro Rhythms, Jacob Rodriguez, 2024
+Mumbai Melodies, Mia Wilson, 2022
+K-Pop Sensation, Alexander Taylor, 2023
+New York Jazz, Lily Moore, 2024
+British Rock Anthems, Oscar Clark, 2022
+French Folk Tunes, Sophia Green, 2023
+Tokyo Techno, Logan Robinson, 2024
+Canadian Classics, Ava Hall, 2022
+Berlin Underground, Noah King, 2023
+Australian Adventure, Grace Scott, 2024
+Samba in São Paulo, Benjamin Walker, 2022
+Indian Fusion Beats, Chloe Hill, 2023
+Seoul City Lights, James Baker, 2024

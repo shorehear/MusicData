@@ -46,8 +46,6 @@ namespace JulyPractice
         }
         #endregion
 
-        public Action CloseAction { get; set; }
-
         public CreateAccountVM() 
         {
             CreateAccountButton = new RelayCommand(CreateAccount);
@@ -72,8 +70,9 @@ namespace JulyPractice
                 return;
             }
 
-            using (var context = new CurrentDbContext()) 
+            using (var context = new CurrentDbContext())
             {
+                context.Database.EnsureCreated();
                 if (context.Users.Any(u => u.Username == UsernameTextBox))
                 {
                     MessageBlock = "Пользователь с таким логином уже существует.";
@@ -91,7 +90,6 @@ namespace JulyPractice
                 context.SaveChanges();
 
                 MessageBox.Show("Аккаунт успешно создан.");
-                CloseAction?.Invoke();
             }
         }
         private bool IsPasswordValid(string password)

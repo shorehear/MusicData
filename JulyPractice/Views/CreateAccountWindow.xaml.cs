@@ -9,11 +9,9 @@ namespace JulyPractice
         public CreateAccountWindow()
         {
             InitializeComponent();
+
             createAccVM = new CreateAccountVM();
             DataContext = createAccVM;
-
-            if (createAccVM.CloseAction == null) { createAccVM.CloseAction = new Action(this.Close); }
-
         }
     }
 }
