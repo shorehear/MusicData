@@ -39,5 +39,11 @@ namespace JulyPractice
             var songs = allSongs.Where(s => s.MusicianID == musicianID).ToList();
             return new ObservableCollection<Song>(songs);
         }
+
+        public void LoadChoiceWindow()
+        {
+            AddInfoChoiceWindow addInfoChoiceWindow = new AddInfoChoiceWindow(context);
+            addInfoChoiceWindow.Show();
+        }
     }
 }

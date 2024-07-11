@@ -6,7 +6,7 @@ using Xunit;
 
 namespace TestJulyPractice
 {
-    public class UnitTest
+    public class UnitTest : IDisposable
     {
         private readonly DbContextOptions<CurrentDbContext> options;
         private readonly CurrentDbContext context;
@@ -25,11 +25,7 @@ namespace TestJulyPractice
 
         private void FillDatabase(CurrentDbContext context)
         {
-            context.Countries.RemoveRange(context.Countries);
-            context.Musicians.RemoveRange(context.Musicians);
-            context.Songs.RemoveRange(context.Songs);
-            context.Albums.RemoveRange(context.Albums);
-            context.SaveChanges();
+            PreparationToFill(context);
 
             var country = new Country { CountryID = 11, CountryName = "TestCountry" };
             context.Countries.Add(country);
@@ -48,10 +44,20 @@ namespace TestJulyPractice
             context.SaveChanges();
         }
 
+        private void PreparationToFill(CurrentDbContext context) 
+        {
+            context.Countries.RemoveRange(context.Countries);
+            context.Musicians.RemoveRange(context.Musicians);
+            context.Songs.RemoveRange(context.Songs);
+            context.Albums.RemoveRange(context.Albums);
+            context.SaveChanges();
+        }
+
         [Fact]
         public void TestMusicianCount()
         {
-            var musiciansCount = context.Musicians.Count();
+            var musiciansCount = context.Musicians.Select(x => x.MusicianID).Count(); //добавить аргумент для скорости или ищи по столбцу 
+            //написать sql скриптом 
             Assert.Equal(1, musiciansCount);
         }
 
@@ -97,6 +103,12 @@ namespace TestJulyPractice
 
             var musiciansCount = context.Musicians.Count();
             Assert.Equal(0, musiciansCount);
+        }
+
+        //для других библиотек/ресурсов
+        public void Dispose()
+        {
+            context.Dispose();
         }
     }
 }

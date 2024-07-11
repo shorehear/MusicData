@@ -72,7 +72,8 @@ namespace JulyPractice
 
             using (var context = new CurrentDbContext())
             {
-                context.Database.EnsureCreated();
+                //переделать с миграцией
+                //context.Database.EnsureCreated();
                 if (context.Users.Any(u => u.Username == UsernameTextBox))
                 {
                     MessageBlock = "Пользователь с таким логином уже существует.";

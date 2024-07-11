@@ -1,86 +1,11 @@
-Songs:
-Sunset Groove, John Smith, Summer Hits
-Morning Mist, John Smith, Summer Hits
-Starlight Serenade, John Smith, Summer Hits
-
-Songs:
-Moonlit Reflections, Emily Johnson, Moonlight Sonata
-Midnight Sonata, Emily Johnson, Moonlight Sonata
-Serenade in London, Emily Johnson, Moonlight Sonata
-Eiffel Serenade, Michael Brown, Rhythm of Paris
-Parisian Nights, Michael Brown, Rhythm of Paris
-Champs-Élysées Waltz, Michael Brown, Rhythm of Paris
-Neon Tokyo Nights, Maria Garcia, Tokyo Nights
-Cherry Blossom Melody, Maria Garcia, Tokyo Nights
-Shibuya Lights, Maria Garcia, Tokyo Nights
-Maple Leaf Waltz, David Lee, Maple Melodies
-Northern Lights, David Lee, Maple Melodies
-Forest Hymn, David Lee, Maple Melodies
-Berlin Sunrise, Sophie Martin, Berlin Beats
-Underground Techno, Sophie Martin, Berlin Beats
-Club Vibes, Sophie Martin, Berlin Beats
-Outback Sunset, Lucas Hernandez, Outback Rhythms
-Desert Mirage, Lucas Hernandez, Outback Rhythms
-Kangaroo Hop, Lucas Hernandez, Outback Rhythms
-Samba Carnaval, Ana Silva, Carnaval Brasileiro
-Rio Nights, Ana Silva, Carnaval Brasileiro
-Amazon Melodies, Ana Silva, Carnaval Brasileiro
-Bollywood Dance, Rahul Kumar, Bollywood Beats
-Mumbai Nights, Rahul Kumar, Bollywood Beats
-Rajasthan Journey, Rahul Kumar, Bollywood Beats
-Seoul Streets, Ji-hyun Park, Seoul Symphony
-Han River Sonata, Ji-hyun Park, Seoul Symphony
-Gangnam Groove, Ji-hyun Park, Seoul Symphony
-Golden Sands, Emma Wilson, Golden Sunset
-Sunset Reflections, Emma Wilson, Golden Sunset
-Tropical Breeze, Emma Wilson, Golden Sunset
-London Rain, Daniel White, London Calling
-English Countryside, Daniel White, London Calling
-Big Ben Beats, Daniel White, London Calling
-Parisian Cafe, Isabella Lopez, Parisian Romance
-Montmartre Melody, Isabella Lopez, Parisian Romance
-Seine Serenade, Isabella Lopez, Parisian Romance
-Kyoto Cherry Blossoms, Liam Martinez, Kyoto Serenade
-Temples of Kyoto, Liam Martinez, Kyoto Serenade
-Geisha Dance, Liam Martinez, Kyoto Serenade
-Northern Lights, Olivia Thompson, Canadian Voyage
-Rocky Mountain Symphony, Olivia Thompson, Canadian Voyage
-Niagara Falls Serenade, Olivia Thompson, Canadian Voyage
-Berlin Nightclub, Ethan Harris, Berlin Electronica
-Techno Streets, Ethan Harris, Berlin Electronica
-Club Rave, Ethan Harris, Berlin Electronica
-Harbour Symphony, Amelia Davis, Sydney Soundscape
-Bondi Beach Beats, Amelia Davis, Sydney Soundscape
-Opera House Overture, Amelia Davis, Sydney Soundscape
-Rio Samba, Jacob Rodriguez, Rio de Janeiro Rhythms
-Carnival Celebration, Jacob Rodriguez, Rio de Janeiro Rhythms
-Copacabana Nights, Jacob Rodriguez, Rio de Janeiro Rhythms
-Mumbai Dreams, Mia Wilson, Mumbai Melodies
-Bollywood Magic, Mia Wilson, Mumbai Melodies
-Gateway of India Sonata, Mia Wilson, Mumbai Melodies
-K-Pop Dance Floor, Alexander Taylor, K-Pop Sensation
-Seoul Skyline, Alexander Taylor, K-Pop Sensation
-Hanbok Hip-Hop, Alexander Taylor, K-Pop Sensation
-NYC Jazz Club, Lily Moore, New York Jazz
-Brooklyn Beats, Lily Moore, New York Jazz
-Central Park Serenade, Lily Moore, New York Jazz
-British Rock Anthem, Oscar Clark, British Rock Anthems
-London Punk Rock, Oscar Clark, British Rock Anthems
-Beatles Tribute, Oscar Clark, British Rock Anthems
-French Countryside, Sophia Green, French Folk Tunes
-Provence Melody, Sophia Green, French Folk Tunes
-Eiffel Tower Waltz, Sophia Green, French Folk Tunes
-Tokyo Underground, Logan Robinson, Tokyo Techno
-Shibuya Party, Logan Robinson, Tokyo Techno
-Harajuku Groove, Logan Robinson, Tokyo Techno
-Canadian Wilderness, Ava Hall, Canadian Classics
-Rocky Mountain Symphony, Ava Hall, Canadian Classics
-Maple Leaf Waltz, Ava Hall, Canadian Classics
-Berlin Metro, Noah King, Berlin Underground
-Techno Berlin, Noah King, Berlin Underground
-Underground Beats, Noah King, Berlin Underground
-Australian Outback, Grace Scott, Australian Adventure
-Great Barrier Reef Symphony, Grace Scott, Australian Adventure
-Sydney Opera House Sonata, Grace Scott, Australian Adventure
-Samba in São Paulo, Benjamin Walker, Samba in São Paulo
-Carnival Celebration, Benjamin Walker, Samba in São Paulo
+Pablo Picasso Song1, Pablo Picasso, Pablo Picasso Album 
+Pablo Picasso Song2, Pablo Picasso, Pablo Picasso Album 
+Pablo Picasso Song3, Pablo Picasso, Pablo Picasso Album 
+Pablo Picasso Song4, Pablo Picasso, Pablo Picasso Album 
+Frida Kahlo Song1, Frida Kahlo, Frida Kahlo Album
+Frida Kahlo Song2, Frida Kahlo, Frida Kahlo Album
+Frida Kahlo Song3, Frida Kahlo, Frida Kahlo Album
+Vincent van Gogh Song1, Vincent van Gogh, Vincent van Gogh Album
+Vincent van Gogh Song2, Vincent van Gogh, Vincent van Gogh Album
+Leonardo da Vinci Song1, Leonardo da Vinci, Leonardo da Vinci Album
+Claude Monet Song, Claude Monet, Claude Monet Album

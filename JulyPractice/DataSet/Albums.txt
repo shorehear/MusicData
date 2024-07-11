@@ -1,31 +1,5 @@
-Albums:
-Summer Hits, John Smith, 2023
-Moonlight Sonata, Emily Johnson, 2022
-Rhythm of Paris, Michael Brown, 2024
-Tokyo Nights, Maria Garcia, 2023
-Maple Melodies, David Lee, 2022
-Berlin Beats, Sophie Martin, 2023
-Outback Rhythms, Lucas Hernandez, 2024
-Carnaval Brasileiro, Ana Silva, 2022
-Bollywood Beats, Rahul Kumar, 2023
-Seoul Symphony, Ji-hyun Park, 2022
-Golden Sunset, Emma Wilson, 2023
-London Calling, Daniel White, 2024
-Parisian Romance, Isabella Lopez, 2022
-Kyoto Serenade, Liam Martinez, 2023
-Canadian Voyage, Olivia Thompson, 2024
-Berlin Electronica, Ethan Harris, 2022
-Sydney Soundscape, Amelia Davis, 2023
-Rio de Janeiro Rhythms, Jacob Rodriguez, 2024
-Mumbai Melodies, Mia Wilson, 2022
-K-Pop Sensation, Alexander Taylor, 2023
-New York Jazz, Lily Moore, 2024
-British Rock Anthems, Oscar Clark, 2022
-French Folk Tunes, Sophia Green, 2023
-Tokyo Techno, Logan Robinson, 2024
-Canadian Classics, Ava Hall, 2022
-Berlin Underground, Noah King, 2023
-Australian Adventure, Grace Scott, 2024
-Samba in São Paulo, Benjamin Walker, 2022
-Indian Fusion Beats, Chloe Hill, 2023
-Seoul City Lights, James Baker, 2024
+Pablo Picasso Album, Pablo Picasso, 2024
+Frida Kahlo Album, Frida Kahlo, 2024
+Vincent van Gogh Album, Vincent van Gogh, 2024
+Leonardo da Vinci Album, Leonardo da Vinci, 2024
+Claude Monet Album, Claude Monet, 2024

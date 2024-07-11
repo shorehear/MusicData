@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Windows.Input;
+using System.Windows;
 
 namespace JulyPractice
 {
@@ -83,10 +84,12 @@ namespace JulyPractice
             }
         }
 
-
         private void SaveAndExit(object parameter) { }
 
-        private void AddInformation(object parameter) { }
+        private void AddInformation(object parameter) 
+        {
+            dataOrchestrator.LoadChoiceWindow();
+        }
 
         public event PropertyChangedEventHandler PropertyChanged;
         protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)

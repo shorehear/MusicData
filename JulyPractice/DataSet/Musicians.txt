@@ -1,31 +1,5 @@
-Musicians:
-John Smith, USA
-Emily Johnson, UK
-Michael Brown, France
-Maria Garcia, Japan
-David Lee, Canada
-Sophie Martin, Germany
-Lucas Hernandez, Australia
-Ana Silva, Brazil
-Rahul Kumar, India
-Ji-hyun Park, South Korea
-Emma Wilson, USA
-Daniel White, UK
-Isabella Lopez, France
-Liam Martinez, Japan
-Olivia Thompson, Canada
-Ethan Harris, Germany
-Amelia Davis, Australia
-Jacob Rodriguez, Brazil
-Mia Wilson, India
-Alexander Taylor, South Korea
-Lily Moore, USA
-Oscar Clark, UK
-Sophia Green, France
-Logan Robinson, Japan
-Ava Hall, Canada
-Noah King, Germany
-Grace Scott, Australia
-Benjamin Walker, Brazil
-Chloe Hill, India
-James Baker, South Korea
+Pablo Picasso, Spain
+Frida Kahlo, Mexico
+Vincent van Gogh, Netherlands
+Leonardo da Vinci, Italy
+Claude Monet, France

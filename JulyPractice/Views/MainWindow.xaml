@@ -31,13 +31,13 @@
             </TabItem>
         </TabControl>
 
-        <StackPanel DockPanel.Dock="Right" Width="300" Height="360">
+        <StackPanel DockPanel.Dock="Right" Width="300" Height="400">
             <TextBlock Text="Альбомы исполнителя:"/>
-            <ListView ItemsSource="{Binding Albums}" SelectedItem="{Binding SelectedAlbum}" Width="300" Height="150" Margin="0,5">
+            <ListView ItemsSource="{Binding Albums}" Width="300" Height="150" Margin="0,5">
                 <ListView.View>
                     <GridView>
                         <GridViewColumn Header="Название" Width="150" DisplayMemberBinding="{Binding Title}" />
-                        <GridViewColumn Header="Год выпуска" Width="70" DisplayMemberBinding="{Binding ReleaseYear}" />
+                        <GridViewColumn Header="Год выпуска" Width="90" DisplayMemberBinding="{Binding ReleaseYear}" />
                     </GridView>
                 </ListView.View>
             </ListView>
@@ -50,6 +50,8 @@
                     </GridView>
                 </ListView.View>
             </ListView>
+
+            <Button Margin="10" Height="20" Width="150" Command="{Binding AddInformationCommand}" Content="Добавить информацию"/>
         </StackPanel>
     </DockPanel>
 
