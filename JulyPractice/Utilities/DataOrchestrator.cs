@@ -1,5 +1,6 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows;
+using System.Windows.Media;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -21,6 +22,7 @@ namespace JulyPractice
 
         public ObservableCollection<Musician> LoadMusicians()
         {
+            Logger.LogInformation($"LoadMusicians:{context.Musicians.Count()}");
             return new ObservableCollection<Musician>(context.Musicians.ToList());
         }
 
@@ -29,6 +31,7 @@ namespace JulyPractice
             var allAlbums = context.Albums.ToList();
 
             var albums = allAlbums.Where(a => a.MusicianID == musicianID).ToList();
+            Logger.LogInformation($"LoadAlbums:{albums.Count()}, Artist: {musicianID}");
             return new ObservableCollection<Album>(albums);
         }
 
@@ -37,6 +40,7 @@ namespace JulyPractice
             var allSongs = context.Songs.ToList();
 
             var songs = allSongs.Where(s => s.MusicianID == musicianID).ToList();
+            Logger.LogInformation($"LoadSongs:{songs.Count()}");
             return new ObservableCollection<Song>(songs);
         }
 

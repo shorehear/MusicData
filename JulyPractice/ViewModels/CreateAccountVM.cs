@@ -1,8 +1,5 @@
 ﻿using System.ComponentModel;
-using Microsoft.EntityFrameworkCore;
 using System.Windows.Input;
-using System.Linq;
-using System;
 using System.Windows;
 
 namespace JulyPractice
@@ -60,7 +57,7 @@ namespace JulyPractice
 
             if (PasswordTextBox.Length < 8)
             {
-                MessageBlock = $"Пароль должен содержать не менее {8} символов.";
+                MessageBlock = $"Пароль должен содержать не менее 8 символов.";
                 return;
             }
 
@@ -72,25 +69,29 @@ namespace JulyPractice
 
             using (var context = new CurrentDbContext())
             {
-                //переделать с миграцией
-                //context.Database.EnsureCreated();
-                if (context.Users.Any(u => u.Username == UsernameTextBox))
+                if (!context.Database.CanConnect())
+                { MessageBox.Show("Не возможно подключиться к базе данных. Пожалуйста, проверьте целостность файловой системы."); }
+                else
                 {
-                    MessageBlock = "Пользователь с таким логином уже существует.";
-                    return;
+                    if (context.Users.Any(u => u.Username == UsernameTextBox))
+                    {
+                        MessageBlock = "Пользователь с таким логином уже существует.";
+                        return;
+                    }
+
+                    var hashedPassword = PasswordHasher.HashPassword(PasswordTextBox);
+                    var user = new User
+                    {
+                        Username = UsernameTextBox,
+                        PasswordHash = hashedPassword
+                    };
+
+                    context.Users.Add(user);
+                    context.SaveChanges();
+                    Logger.LogInformation("Пользователь создал аккаунт.");
+
+                    MessageBox.Show("Аккаунт успешно создан.");
                 }
-
-                var hashedPassword = PasswordHasher.HashPassword(PasswordTextBox);
-                var user = new User
-                {
-                    Username = UsernameTextBox,
-                    PasswordHash = hashedPassword
-                };
-
-                context.Users.Add(user);
-                context.SaveChanges();
-
-                MessageBox.Show("Аккаунт успешно создан.");
             }
         }
         private bool IsPasswordValid(string password)

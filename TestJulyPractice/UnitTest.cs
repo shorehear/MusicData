@@ -19,7 +19,6 @@ namespace TestJulyPractice
 
             context = new CurrentDbContext(options);
             context.Database.OpenConnection();
-            context.Database.EnsureCreated();
             FillDatabase(context);
         }
 
@@ -56,8 +55,7 @@ namespace TestJulyPractice
         [Fact]
         public void TestMusicianCount()
         {
-            var musiciansCount = context.Musicians.Select(x => x.MusicianID).Count(); //добавить аргумент для скорости или ищи по столбцу 
-            //написать sql скриптом 
+            var musiciansCount = context.Musicians.Select(x => x.MusicianID).Count(); 
             Assert.Equal(1, musiciansCount);
         }
 
@@ -103,12 +101,6 @@ namespace TestJulyPractice
 
             var musiciansCount = context.Musicians.Count();
             Assert.Equal(0, musiciansCount);
-        }
-
-        //для других библиотек/ресурсов
-        public void Dispose()
-        {
-            context.Dispose();
         }
     }
 }

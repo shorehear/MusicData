@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JulyPractice.Migrations
 {
     [DbContext(typeof(CurrentDbContext))]
-    [Migration("20240706160614_Add Musicians")]
-    partial class AddMusicians
+    [Migration("20240715201237_Start mig process with database table")]
+    partial class Startmigprocesswithdatabasetable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -64,9 +64,6 @@ namespace JulyPractice.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("BirthDate")
-                        .HasColumnType("TEXT");
-
                     b.Property<int>("CountryID")
                         .HasColumnType("INTEGER");
 
@@ -92,9 +89,6 @@ namespace JulyPractice.Migrations
 
                     b.Property<Guid>("MusicianID")
                         .HasColumnType("TEXT");
-
-                    b.Property<int>("ReleaseYear")
-                        .HasColumnType("INTEGER");
 
                     b.Property<string>("Title")
                         .IsRequired()

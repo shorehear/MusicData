@@ -1,7 +1,5 @@
 ﻿using System.Windows.Input;
 using System.ComponentModel;
-using Microsoft.EntityFrameworkCore;
-using System.Linq;
 using System.Windows;
 
 namespace JulyPractice
@@ -59,15 +57,16 @@ namespace JulyPractice
 
             using (var context = new CurrentDbContext())
             {
-                context.Database.EnsureCreated();
                 var user = context.Users.SingleOrDefault(u => u.Username == LoginTextBox);
                 if (user != null && PasswordHasher.VerifyPassword(PasswordTextBox, user.PasswordHash))
                 {
+                    Logger.LogInformation("Пользователь успешно вошел в систему.");
                     MainWindow mainWindow = new MainWindow();
                     mainWindow.Show();
                 }
                 else
                 {
+                    Logger.LogInformation("Пользователь ввел неверный логин или пароль.");
                     MessageBlock = "Неверный логин или пароль.";
                 }
             }

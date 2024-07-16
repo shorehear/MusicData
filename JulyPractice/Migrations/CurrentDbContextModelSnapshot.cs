@@ -61,9 +61,6 @@ namespace JulyPractice.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("BirthDate")
-                        .HasColumnType("TEXT");
-
                     b.Property<int>("CountryID")
                         .HasColumnType("INTEGER");
 
@@ -89,9 +86,6 @@ namespace JulyPractice.Migrations
 
                     b.Property<Guid>("MusicianID")
                         .HasColumnType("TEXT");
-
-                    b.Property<int>("ReleaseYear")
-                        .HasColumnType("INTEGER");
 
                     b.Property<string>("Title")
                         .IsRequired()

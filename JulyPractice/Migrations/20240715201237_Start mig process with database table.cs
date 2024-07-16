@@ -1,12 +1,12 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-#nullable disable //init
+#nullable disable
 
 namespace JulyPractice.Migrations
 {
     /// <inheritdoc />
-    public partial class AddMusicians : Migration
+    public partial class Startmigprocesswithdatabasetable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -43,8 +43,7 @@ namespace JulyPractice.Migrations
                 {
                     MusicianID = table.Column<Guid>(type: "TEXT", nullable: false),
                     Name = table.Column<string>(type: "TEXT", nullable: false),
-                    CountryID = table.Column<int>(type: "INTEGER", nullable: false),
-                    BirthDate = table.Column<DateTime>(type: "TEXT", nullable: false)
+                    CountryID = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -84,8 +83,7 @@ namespace JulyPractice.Migrations
                     SongID = table.Column<Guid>(type: "TEXT", nullable: false),
                     Title = table.Column<string>(type: "TEXT", nullable: false),
                     MusicianID = table.Column<Guid>(type: "TEXT", nullable: false),
-                    AlbumID = table.Column<Guid>(type: "TEXT", nullable: false),
-                    ReleaseYear = table.Column<int>(type: "INTEGER", nullable: false)
+                    AlbumID = table.Column<Guid>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>
                 {

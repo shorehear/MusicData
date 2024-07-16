@@ -47,6 +47,13 @@
                 <ListView.View>
                     <GridView>
                         <GridViewColumn Header="Название" Width="150" DisplayMemberBinding="{Binding Title}" />
+                        <GridViewColumn Header="Альбом" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Album.Title}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
                     </GridView>
                 </ListView.View>
             </ListView>

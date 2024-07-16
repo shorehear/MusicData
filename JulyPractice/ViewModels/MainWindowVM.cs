@@ -57,6 +57,7 @@ namespace JulyPractice
         public MainWindowVM(DataOrchestrator dataOrchestrator)
         {
             this.dataOrchestrator = dataOrchestrator;
+            Logger.LogInformation("Главное окно запущено.");
 
             SaveAndExitCommand = new RelayCommand(SaveAndExit);
             AddInformationCommand = new RelayCommand(AddInformation);

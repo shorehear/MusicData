@@ -21,6 +21,7 @@ namespace JulyPractice
         {
             string basePath = AppDomain.CurrentDomain.BaseDirectory; 
             string databasePath = Path.Combine(basePath, "JulyPractice.db");
+            Logger.LogInformation($"Data source: {databasePath}");
 
             SQLitePCL.Batteries.Init();
             optionsBuilder.UseSqlite($"Data Source={databasePath}");
