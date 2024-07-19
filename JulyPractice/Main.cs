@@ -13,6 +13,11 @@ namespace JulyPractice
             Logger.LogInformation("Запуск приложения.");
             try
             {
+                using (var context = new CurrentDbContext()) 
+                {
+                    DatabaseBackupManager backupManager = new DatabaseBackupManager();
+                    backupManager.BackupDatabase(context);
+                }
                 AuthorizationWindow auth = new AuthorizationWindow();
                 auth.Show();
 

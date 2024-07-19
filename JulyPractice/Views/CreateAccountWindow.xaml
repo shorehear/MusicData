@@ -18,7 +18,7 @@
         <Button Command="{Binding CreateAccountButton}" Content="Создать аккаунт" Height ="20" Width="150" Margin="10"/>
 
         <TextBlock Text="{Binding MessageBlock}" HorizontalAlignment="Center" TextAlignment="Center"
-               Width="350" Height="25" FontSize="11"
+               Width="250" Height="25" FontSize="11"
                Foreground="#FFFF0F0F"/>
     </StackPanel>
 

@@ -10,6 +10,8 @@ namespace JulyPractice
 {
     public class AddInfoChoiceVM : INotifyPropertyChanged
     {
+        public static Guid NotDefinedCountryId { get; } = new Guid("00000000-0000-0000-0000-000000000000");
+
         private CurrentDbContext context;
 
         private string selectedInfoType;
@@ -157,7 +159,7 @@ namespace JulyPractice
                         {
                             MusicianID = Guid.NewGuid(),
                             Name = musicianName,
-                            CountryID = 11 
+                            CountryID = NotDefinedCountryId
                         };
                         context.Musicians.Add(musician);
                         context.SaveChanges();

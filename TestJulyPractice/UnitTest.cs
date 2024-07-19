@@ -6,8 +6,10 @@ using Xunit;
 
 namespace TestJulyPractice
 {
-    public class UnitTest : IDisposable
+    public class UnitTest
     {
+        public static Guid NotDefinedCountryId { get; } = new Guid("00000000-0000-0000-0000-000000000000");
+
         private readonly DbContextOptions<CurrentDbContext> options;
         private readonly CurrentDbContext context;
 
@@ -26,11 +28,11 @@ namespace TestJulyPractice
         {
             PreparationToFill(context);
 
-            var country = new Country { CountryID = 11, CountryName = "TestCountry" };
+            var country = new Country { CountryID = NotDefinedCountryId, CountryName = "TestCountry" };
             context.Countries.Add(country);
             context.SaveChanges();
 
-            var musician = new Musician { CountryID = 11, MusicianID = Guid.NewGuid(), Name = "TestMusician" };
+            var musician = new Musician { CountryID = NotDefinedCountryId, MusicianID = Guid.NewGuid(), Name = "TestMusician" };
             context.Musicians.Add(musician);
             context.SaveChanges();
 
